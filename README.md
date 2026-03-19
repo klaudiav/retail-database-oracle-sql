@@ -16,6 +16,7 @@ Tools & Technologies
 - Oracle SQL Developer
 
 Database Structure
+
 The database includes the following main entities:
 - Products
 - Suppliers
@@ -37,6 +38,7 @@ Operations Implemented
 - Data management and validation
 
 Use Case
+
 The database supports:
 - Inventory tracking
 - Order management
