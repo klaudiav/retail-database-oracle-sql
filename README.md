@@ -1,5 +1,5 @@
 # retail-database-oracle-sql
-Retail Database Design & Implementation (Oracle SQL)
+Simple Retail Database Design & Implementation (Oracle SQL)
 
 Overview
 
