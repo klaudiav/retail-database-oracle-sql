@@ -2,6 +2,7 @@
 Retail Database Design & Implementation (Oracle SQL)
 
 Overview
+
 This project consists of designing and implementing a simple relational database for a retail business, supporting operations such as product management, customer records, and order tracking.
 
 Objectives
